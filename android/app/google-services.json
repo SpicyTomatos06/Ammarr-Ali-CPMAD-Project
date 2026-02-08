@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607402282896",
+    "project_id": "projectsmartrecycle",
+    "storage_bucket": "projectsmartrecycle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607402282896:android:8ad917c1c9062655b7ad15",
+        "android_client_info": {
+          "package_name": "com.example.project_smartrecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ylQvFTjTTOIL-BoTm3msC1AKkd8mnu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
