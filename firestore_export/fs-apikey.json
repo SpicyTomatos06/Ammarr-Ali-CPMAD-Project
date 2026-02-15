@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projectsmartrecycle",
+  "private_key_id": "a5787cbc914a804651efdd75aa0b79d8253b93b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCeFahqkHqROD9\nCaVBPoYRTgTvd+aUZ3rlHDnq5suPBa3D8u5hzHPMITE4jHQ/0lrRs+agKiT0pFTl\nzpiioxN2Y4Gqwwh+AKwHZRuyrR5w2lh/ZkNrZ6hOafnHX3WWp8oc9FSfHgmOzUXL\n4VO6HUhBFp+sbXNitmCIv+agPEFYCSNxK/CK7bwiL69vaNf8aSRfZh+CT3U56fYX\nXHADqBT8TuIfQaUY3Tc7Lr+D0w/isUWZbh16viEq1sUTUVs9uep8n8dSHGsrxngC\nHOVFhvwNJwnM77hXjoK1QQMAqDhPYsr5wGmfWQcBaAdBvlSOmt01JpwKOqII65Qb\n5JNXMLDjAgMBAAECggEAN7MmBQnx9TqjQnaHyacx2TUCfuBVv73f2k16XUiblyxm\nN9CV7JcVt6ruISdBiKIkdxnS/Z70lMmYs3W4DCUvRuJ7WkCgZw6kNz4Db+rb5DD1\n1g+hUdsPvt3lt/AkivEmF6L3tddxn2A2FI5GX/FRJ6tmMonq2aQpBCIK2WxIvwDm\nLj9XBPh+fHUDc1XGDNS+xPa+TWV0momQlm5pBw0GHOMhoBGopW2Wo9KnDqqqW/Gz\nZEPqebtgh8Q6HA7vPS3fbYpUWP0OnZEnlCeLxvUXrEAcGXx3DjQV9G8ADClyDBRn\ngAmXNXzf2o0IqXeT3iB83vkP11wAuEd3SJys426SKQKBgQD96t/8Jcop0ImqexM3\niBGzGCYCAmAEVbER5cqRKs1ixIB+MLSqVaBPgs03t242sX2KegYWyiJ7O6fq22eS\n+hWRXkCohjFWCvvAS1tYyTXS94Zg1XKxstI7nM2bKOY8sx+IcV+/fvKdzSp0rr86\nWloGF4ngBhaOY13AzwUhajkqVwKBgQDEEKXP7DQKRC5RwlyQNAp5iIdiVEGDyz+n\ndqIJ+ly/F/HCr7PhET6RbTe3wlU0iBbeRLdETDvgzs9AVhf4Z6+T3aKP4QZEwd/F\n1rVUexri1IW/UzXT8RRSp0vjvgsUeqOF5hHfxxHSs8kBUnG9Q8g9LTcQs+kM1mOt\nFduCq/YuVQKBgQDnFuUE+WuVRLqV0m854feh1D97Iqg6Kbb+f/EszxSfaBE9R5yV\nTVqaIoQcyi9fTYfhCI8UHKDnIPMA1u/bnwkUBQC5n2+1TEe0yaB4HJ+EwkulQ32f\n5gxZvqqNJNrtsWPobK5kfOfX4ApcqVFWjTZTRwbvQPs0WZDQ0lhsAd3G/wKBgFqO\nCddPk/WN6grPByt/LbtWKJlsqtmxPRQegdaz8LQ93eZ6ek0gRtKqLArOUcYyeMVt\n3WtI/nrlaemgGfAcC4by3cswNlH5bV4VvahoN1G+sIteZkUeWrGWHUHxm3J49h+4\n1FaTvhKgAN2Ac5HjxY8j3AP15FSOjHj72Gew/sIFAoGBAPJCfL0zVyotQuFfRdmg\ngDTG1li1IBm1WtdFeC7pCBgRpa9rKmNACKX9NKNpKtA8jDxLO4IuBoNHmDdR8Nb3\nRHQmdAl5uVYmpGusz2yfnW9ejSlAsIWrryBN+USb6EnCP3gWBt+e8PlvFMtr3iyD\nMotHrlexY4CgjV18rXNMvGJu\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@projectsmartrecycle.iam.gserviceaccount.com",
+  "client_id": "110413639692028693103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40projectsmartrecycle.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

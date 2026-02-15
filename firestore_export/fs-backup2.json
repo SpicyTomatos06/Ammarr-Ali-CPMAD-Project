@@ -1,0 +1,8 @@
+{
+"users/FOpT3Dpk0YWBRALQ7NgeTl2e9Ht2": {"displayName":"displayalim","email":"test@gmail.com","updatedAt":{"__datatype__":"timestamp","value":{"_seconds":1770471590,"_nanoseconds":333000000}}},
+"users/43VdEqsXz3Od2n2yUZeSg6PVWOf1": {"createdAt":{"__datatype__":"timestamp","value":{"_seconds":1769999131,"_nanoseconds":392000000}},"displayName":"Sup","email":"ali@gmail.com","updatedAt":{"__datatype__":"timestamp","value":{"_seconds":1769999131,"_nanoseconds":392000000}}},
+"users/IGjo0fuR6KWrv42YuRgj67yJ8lB2": {"displayName":"SecondTester","email":"ali2@gmail.com","updatedAt":{"__datatype__":"timestamp","value":{"_seconds":1770601785,"_nanoseconds":836000000}}},
+"users/43VdEqsXz3Od2n2yUZeSg6PVWOf1/reminders/AJYUIkpPWFde4C6nBPbr": {"note":"Blu bin outside home","dayOfWeek":"Monday","time":"20:00","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1769999366,"_nanoseconds":357000000}}},
+"users/IGjo0fuR6KWrv42YuRgj67yJ8lB2/reminders/z3FqRJ9vwS7F7qMPZK0f": {"note":"","dayOfWeek":"Monday","time":"09:59","createdAt":{"__datatype__":"timestamp","value":{"_seconds":1770602301,"_nanoseconds":143000000}}},
+"metadata": {"timestamp":"2026-02-15_17-19-46","ref":"users"}
+}
